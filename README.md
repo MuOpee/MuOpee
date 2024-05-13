@@ -21,19 +21,19 @@
 
 <h3 align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Rtube.com)](https://github.com/muraakib/Rtube.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=RevInt)](https://github.com/muraakib/RevInt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Umaaa)](https://github.com/muraakib/Umaaa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Tiny-one)](https://github.com/muraakib/Tiny-one)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Ready)](https://github.com/muraakib/Ready/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Rtube.com)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=RevInt)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Umaaa)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Tiny-one)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Ready)](https://github.com/)
 
 </h3>
 
 
 <h3 align="center">
-<p dir="auto"><a href="https://www.instagram.com/muraakib" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://muraakib.github.io/RevInt/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/muraakib" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.instagram.com/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="#" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br/>
 
@@ -47,13 +47,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muraakib"/>
 </p>
 <p align="center">
-   <a href="https://github.com/muraakib/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muraakib&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/muraakib/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muraakib&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muraakib&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muraakib&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
-
+M
 <br />
 
-<a href="https://github.com/muraakib/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=muraakib&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MuOpee/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=muraakib&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 
@@ -65,7 +65,7 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/muraakib" target="_blank">
+<a href="https://github.com/MuOpee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
