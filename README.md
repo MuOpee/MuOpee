@@ -20,12 +20,6 @@
 </h3>
 
 <h3 align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
 
 </h3>
 
@@ -47,13 +41,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuOpee"/>
 </p>
 <p align="center">
-   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MuOpee&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuOpee&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="MuOpee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MuOpee&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="MuOpee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuOpee&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
-M
+
 <br />
 
-<a href="https://github.com/MuOpee/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuOpee&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MuOpee/github-readme-activity-graph"><img alt="MuOpee 's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuOpee&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 
