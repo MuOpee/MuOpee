@@ -9,23 +9,23 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MuOpee&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
-<img src="https://komarev.com/ghpvc/?username=MuOpee&label=Profile%20views&color=0e75b6&style=flat" alt="muraakib" />
+<img src="https://komarev.com/ghpvc/?username=MuOpee&label=Profile%20views&color=0e75b6&style=flat" alt="MuOpee" />
 
 <br/>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/muraakib.svg)](https://user-badge.committers.top/pakistan/muraakib)
+[![committers.top badge](https://user-badge.committers.top/pakistan/MuOpee.svg)](https://user-badge.committers.top/pakistan/MuOpee)
 
 <br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muraakib" alt="muraakib" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuOpee" alt="MuOpee" /></a>
 </h3>
 
 <h3 align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Rtube.com)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=RevInt)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Umaaa)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Tiny-one)](https://github.com/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=muraakib&repo=Ready)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MuOpee&repo=)](https://github.com/)
 
 </h3>
 
@@ -44,16 +44,16 @@
 </h3>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muraakib"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuOpee"/>
 </p>
 <p align="center">
-   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=muraakib&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muraakib&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MuOpee&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="muraakib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuOpee&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 </p>
 M
 <br />
 
-<a href="https://github.com/MuOpee/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=muraakib&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MuOpee/github-readme-activity-graph"><img alt="muraakib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MuOpee&bg_color=FFFFF&color=000&line=FFA500&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 
