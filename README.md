@@ -25,9 +25,9 @@
 
 
 <h3 align="center">
-<p dir="auto"><a href="https://www.instagram.com/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.instagram.com/free_shaam/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mujahidopee/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br/>
 
