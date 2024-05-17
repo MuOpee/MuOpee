@@ -1,4 +1,6 @@
 <h3 align="center">
+<img src="https://cdn.discordapp.com/attachments/951617301818540093/1241064392662188042/banner.gif?ex=6648d6c9&is=66478549&hm=b65f71cb86ca94aeb010c1c49e938175686e6a2e9f4fb1a41485e187341ab3f8&" alt="My cool GIF" width="850" height="250">
+
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
