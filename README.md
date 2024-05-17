@@ -6,7 +6,7 @@
 
 <h3 align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MuOpee&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MuOpee&data=followers,repositories,stars,commits&theme=dark&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
 <img src="https://komarev.com/ghpvc/?username=MuOpee&label=Profile%20views&color=0e75b6&style=flat" alt="MuOpee" />
@@ -16,7 +16,7 @@
 [![committers.top badge](https://user-badge.committers.top/bangladesh/MuOpee.svg)](https://user-badge.committers.top/bangladesh/MuOpee)
 
 <br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuOpee" alt="MuOpee" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuOpee&theme=onedark" alt="MuOpee" /></a>
 </h3>
 
 <h3 align="center">
@@ -39,11 +39,11 @@
 </h3>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuOpee"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuOpee&theme=onedark"/>
 </p>
 <p align="center">
-   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="MuOpee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MuOpee&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
-   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="MuOpee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuOpee&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="MuOpee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MuOpee&show_icons=true&include_all_commits=true&count_private=true&theme=bg_color=#000000&title_color=FFA500&icon_color=#4169e1" height="192px"/></a>
+   <a href="https://github.com/MuOpee/github-readme-stats"><img alt="MuOpee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MuOpee&langs_count=8&layout=compact&theme=bg_color=#000000&title_color=FFA500&icon_color=#4169e1" height="192px"/></a>
 </p>
 
 <br />
@@ -54,7 +54,7 @@
 
 <h3 align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=ondark)
 
 </h3>
 
